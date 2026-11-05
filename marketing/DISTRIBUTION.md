@@ -13,11 +13,14 @@ Everything here runs under a **TailorScan brand identity**, never your name. Eac
 | 5 | Reddit (brand account) | 15 min a day for 2 weeks | $0 | Medium, steady | Job seekers ask "why no callbacks?" all day |
 | 6 | Meta ads (test) | 30 min setup | $70 cap | Measured test only | See the economics below before spending |
 
-## Step 0: brand identity (15 minutes, do this first)
+## Step 0: brand identity
 
-1. Create a Gmail account such as `tailorscan.help@gmail.com`. Use it for every account below.
-2. Tell Claude the address. It will put it on the site's privacy page as the support contact.
-3. Use the logo square from `../listing/gumroad-cover-1280x720.png`, or a plain green "T", as the profile image everywhere.
+- **Email:** `tailorscan.help@gmail.com` (already on the site's privacy page).
+- **Profile image, everywhere:** `../brand/avatar-800.png`.
+- **Product Hunt thumbnail:** `../brand/producthunt-240.png`.
+- **Facebook Page, Pinterest, or Reddit banner:** `../brand/cover-1640x624.png`.
+- **Wordmark, for anything else:** `../brand/wordmark-1200x360.png`. The source vector is `../brand/mark.svg`.
+- **Optional domain (recommended):** buy `tailorscan.app` (about $14 a year) at Cloudflare Registrar or Namecheap, then tell Claude. It will set `custom_domain`, and you add the 4 GitHub Pages A records it gives you. Do this **before** uploading the Pinterest CSV if you can, so the pins point at the permanent address and you can claim the domain in Pinterest.
 
 ---
 

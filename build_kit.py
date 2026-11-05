@@ -23,6 +23,9 @@ from reportlab.lib.units import inch
 from reportlab.platypus import PageBreak, Paragraph, SimpleDocTemplate, Spacer, Table, TableStyle
 
 import content as C
+from reportlab.pdfbase import pdfmetrics
+from reportlab.pdfbase.ttfonts import TTFont
+pdfmetrics.registerFont(TTFont("DejaVu", str(__import__("pathlib").Path(__file__).resolve().parent / "fonts" / "DejaVuSans.ttf")))
 
 HERE = Path(__file__).resolve().parent
 OUT = HERE / "dist" / "The-Job-Search-Kit"
@@ -379,6 +382,7 @@ def build_playbook(path):
     h1 = ParagraphStyle("h1", parent=ss["Heading1"], fontName="Helvetica-Bold", fontSize=19, leading=23, textColor=accent, spaceAfter=10, spaceBefore=4)
     h2 = ParagraphStyle("h2", parent=ss["Heading2"], fontName="Helvetica-Bold", fontSize=13, leading=17, spaceBefore=10, spaceAfter=6)
     bul = ParagraphStyle("bul", parent=body, leftIndent=14, bulletIndent=2)
+    box = ParagraphStyle("box", parent=bul, bulletFontName="DejaVu", bulletFontSize=10, leftIndent=18)
     title = ParagraphStyle("t", parent=h1, fontSize=32, leading=38, alignment=TA_CENTER)
     sub = ParagraphStyle("s", parent=body, fontSize=13, leading=18, alignment=TA_CENTER, textColor=colors.HexColor("#555555"))
     cell = ParagraphStyle("c", parent=body, fontSize=9.5, leading=13, spaceAfter=0)
@@ -418,7 +422,7 @@ def build_playbook(path):
                  "40% or more of bullets have a number", "No 'responsible for', 'helped with', or cliches",
                  "Re-scanned: score 75 or higher", "Saved as Firstname-Lastname-Company-Role.pdf",
                  "Logged in tracker with date and source", "Referral or hiring-manager message sent (top roles)"]:
-        story.append(Paragraph(item, bul, bulletText="☐"))
+        story.append(Paragraph(item, box, bulletText="\u2610"))
     doc = SimpleDocTemplate(str(path), pagesize=LETTER, leftMargin=0.9 * inch, rightMargin=0.9 * inch, topMargin=0.85 * inch, bottomMargin=0.85 * inch,
                             title="The Tailoring Playbook", author="The Job Search Kit")
 

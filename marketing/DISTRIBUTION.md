@@ -1,5 +1,7 @@
 # TailorScan distribution plan (no personal accounts)
 
+> **Read FIRST_100_CUSTOMERS.md first.** Personal outreach is the main engine for the first 100 sales. The channels below support it.
+
 Everything here runs under a **TailorScan brand identity**, never your name. Each channel has its own tracking link, so every free download and sale in Gumroad shows where it came from. Claude can pull that breakdown any time you ask it to "check on it".
 
 ## Priority order
@@ -9,9 +11,9 @@ Everything here runs under a **TailorScan brand identity**, never your name. Eac
 | 1 | Pinterest | 20 min once | $0 | Slow build, then steady for months | Resume content performs very well there, it needs no face, and 40 pins are ready to bulk-upload |
 | 2 | Hacker News (Show HN) | 10 min + replies | $0 | One-day spike, possibly thousands of visits | The privacy and open-source angle is what HN rewards |
 | 3 | AlternativeTo listings | 15 min | $0 | Small but high-intent and permanent | People searching "Jobscan alternative" land there |
-| 4 | Product Hunt | 20 min | $0 | One-day spike | Free tools launch well |
+| 4 | Product Hunt | 20 min | $0 | One-day spike | **Postponed until customer #100**, as a celebration (see FIRST_100_CUSTOMERS.md) |
 | 5 | Reddit (brand account) | 15 min a day for 2 weeks | $0 | Medium, steady | Job seekers ask "why no callbacks?" all day |
-| 6 | Meta ads (test) | 30 min setup | $70 cap | Measured test only | See the economics below before spending |
+| 6 | Meta ads (test) | 30 min setup | $70 cap | Measured test only | **On hold until about 25 organic sales**, so the ads can use lookalike audiences of real buyers |
 
 ## Step 0: brand identity
 

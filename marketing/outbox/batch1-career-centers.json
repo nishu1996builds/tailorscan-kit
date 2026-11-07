@@ -1,0 +1,58 @@
+[
+  {
+    "id": "uwbothell",
+    "to": "career@uw.edu",
+    "subject": "A free, private resume-tailoring tool for your Free Career Tools page",
+    "body": "Hi UW Bothell Career Services team,\n\nI came across your Free Career Tools page and noticed it already points students to Jobscan, Candid Career, and Teal. We built a free resume-tailoring tool that might be a useful addition there.\n\nTailorScan compares a resume to a specific job posting and lists the missing keywords, ranked by whether the posting puts them under required or preferred qualifications. It also runs nine ATS formatting checks: quantified bullets, weak phrasing, standard headings, and table layouts that parsers scramble.\n\nIt is free and unlimited, needs no login, and runs entirely in the browser, so no student resume or personal data is ever uploaded or stored. That makes it something students and alumni can keep using for every application, without scan limits or an account.\n\nYou can try it with any posting here: https://nishu1996builds.github.io/tailorscan/?utm_source=careercenter&utm_campaign=uwbothell\n\nIf it looks like a fit, would you consider adding it to your list of resources? We'd also value your team's honest feedback on anything it gets wrong for your students' fields.\n\nThanks,\nThe TailorScan team\ntailorscan.help@gmail.com\n\nP.S. If this isn't relevant, just reply \"no thanks\" and we won't follow up.",
+    "status": "ready"
+  },
+  {
+    "id": "latech",
+    "to": "careercenter@latech.edu",
+    "subject": "A free resume vs. job posting checker for your Online Resources page",
+    "body": "Hi Louisiana Tech Career Center team,\n\nI saw your Online Resources page highlights Quinncia for AI resume review and Big Interview for practice. We built a free tool that covers a complementary step: tailoring a resume to one specific posting.\n\nTailorScan compares a resume to a specific job posting and lists the missing keywords, ranked by whether the posting puts them under required or preferred qualifications. It also runs nine ATS formatting checks: quantified bullets, weak phrasing, standard headings, and table layouts that parsers scramble.\n\nIt is free and unlimited, needs no login, and runs entirely in the browser, so no student resume or personal data is ever uploaded or stored. Students can run it on every application they send, alongside the reviews they get from Quinncia and your team.\n\nYou can try it with any posting here: https://nishu1996builds.github.io/tailorscan/?utm_source=careercenter&utm_campaign=latech\n\nIf it looks like a fit, would you consider adding it to your list of resources? We'd also value your team's honest feedback on anything it gets wrong for your students' fields.\n\nThanks,\nThe TailorScan team\ntailorscan.help@gmail.com\n\nP.S. If this isn't relevant, just reply \"no thanks\" and we won't follow up.",
+    "status": "ready"
+  },
+  {
+    "id": "umgc",
+    "to": "careerservices@umgc.edu",
+    "subject": "A free resume-tailoring tool for UMGC's career tools list",
+    "body": "Hi UMGC Career Services team,\n\nI read your Career Connection article on career tools that boost a job search, and the self-service tools in CareerQuest. We built a free tool that might fit well alongside them for your many working-adult learners.\n\nTailorScan compares a resume to a specific job posting and lists the missing keywords, ranked by whether the posting puts them under required or preferred qualifications. It also runs nine ATS formatting checks: quantified bullets, weak phrasing, standard headings, and table layouts that parsers scramble.\n\nIt is free and unlimited, needs no login, and runs entirely in the browser, so no student resume or personal data is ever uploaded or stored. Since it needs no account, alumni and students can use it on any device, on their own schedule.\n\nYou can try it with any posting here: https://nishu1996builds.github.io/tailorscan/?utm_source=careercenter&utm_campaign=umgc\n\nIf it looks like a fit, would you consider adding it to your list of resources? We'd also value your team's honest feedback on anything it gets wrong for your students' fields.\n\nThanks,\nThe TailorScan team\ntailorscan.help@gmail.com\n\nP.S. If this isn't relevant, just reply \"no thanks\" and we won't follow up.",
+    "status": "ready"
+  },
+  {
+    "id": "gatech",
+    "to": "careercenter@gatech.edu",
+    "subject": "A free resume vs. job description scanner for your Career Tools page",
+    "body": "Hi Georgia Tech Career Center team,\n\nI saw your Career Tools page, which includes Big Interview for interview practice. We built a free tool for the step before the interview: tailoring a resume to each specific posting.\n\nTailorScan compares a resume to a specific job posting and lists the missing keywords, ranked by whether the posting puts them under required or preferred qualifications. It also runs nine ATS formatting checks: quantified bullets, weak phrasing, standard headings, and table layouts that parsers scramble.\n\nIt is free and unlimited, needs no login, and runs entirely in the browser, so no student resume or personal data is ever uploaded or stored. It also handles technical resumes well: ambiguous names like Go, R, and C++ are matched carefully so they aren't confused with ordinary words.\n\nYou can try it with any posting here: https://nishu1996builds.github.io/tailorscan/?utm_source=careercenter&utm_campaign=gatech\n\nIf it looks like a fit, would you consider adding it to your list of resources? We'd also value your team's honest feedback on anything it gets wrong for your students' fields.\n\nThanks,\nThe TailorScan team\ntailorscan.help@gmail.com\n\nP.S. If this isn't relevant, just reply \"no thanks\" and we won't follow up.",
+    "status": "ready"
+  },
+  {
+    "id": "upenn",
+    "to": "careerservices@vpul.upenn.edu",
+    "subject": "A free, unlimited complement to Jobscan for Penn students and alumni",
+    "body": "Hi Penn Career Services team,\n\nI saw your Jobscan resource page, which offers students and alumni five free scans. We built a free tool that could complement it for anyone who runs out of scans partway through a search.\n\nTailorScan compares a resume to a specific job posting and lists the missing keywords, ranked by whether the posting puts them under required or preferred qualifications. It also runs nine ATS formatting checks: quantified bullets, weak phrasing, standard headings, and table layouts that parsers scramble.\n\nIt is free and unlimited, needs no login, and runs entirely in the browser, so no student resume or personal data is ever uploaded or stored. Students can tailor every application, not just the first five.\n\nYou can try it with any posting here: https://nishu1996builds.github.io/tailorscan/?utm_source=careercenter&utm_campaign=upenn\n\nIf it looks like a fit, would you consider adding it to your list of resources? We'd also value your team's honest feedback on anything it gets wrong for your students' fields.\n\nThanks,\nThe TailorScan team\ntailorscan.help@gmail.com\n\nP.S. If this isn't relevant, just reply \"no thanks\" and we won't follow up.",
+    "status": "ready"
+  },
+  {
+    "id": "oaklandcc",
+    "to": "careerservices@oaklandcc.edu",
+    "subject": "A free resume-tailoring tool for your Resume Resources page",
+    "body": "Hi Oakland Community College Career Services team,\n\nI came across your Resume Resources page, which recommends Jobscan to students who sign in with their OCC email. We built a free alternative that might help students and community members who don't have, or have lost, a student login.\n\nTailorScan compares a resume to a specific job posting and lists the missing keywords, ranked by whether the posting puts them under required or preferred qualifications. It also runs nine ATS formatting checks: quantified bullets, weak phrasing, standard headings, and table layouts that parsers scramble.\n\nIt is free and unlimited, needs no login, and runs entirely in the browser, so no student resume or personal data is ever uploaded or stored. Anyone can use it, including alumni and adult learners returning to the workforce.\n\nYou can try it with any posting here: https://nishu1996builds.github.io/tailorscan/?utm_source=careercenter&utm_campaign=oaklandcc\n\nIf it looks like a fit, would you consider adding it to your list of resources? We'd also value your team's honest feedback on anything it gets wrong for your students' fields.\n\nThanks,\nThe TailorScan team\ntailorscan.help@gmail.com\n\nP.S. If this isn't relevant, just reply \"no thanks\" and we won't follow up.",
+    "status": "ready"
+  },
+  {
+    "id": "unh",
+    "to": "caps@unh.edu",
+    "subject": "A free resume-tailoring tool for your career technology resources",
+    "body": "Hi UNH Career and Professional Success team,\n\nI saw your Career Technology page, which gives students 24/7 access to your career platforms. We built a free tool that might be a useful addition for the step of tailoring a resume to a specific posting.\n\nTailorScan compares a resume to a specific job posting and lists the missing keywords, ranked by whether the posting puts them under required or preferred qualifications. It also runs nine ATS formatting checks: quantified bullets, weak phrasing, standard headings, and table layouts that parsers scramble.\n\nIt is free and unlimited, needs no login, and runs entirely in the browser, so no student resume or personal data is ever uploaded or stored. It's available around the clock with no account, so alumni can keep using it after graduation too.\n\nYou can try it with any posting here: https://nishu1996builds.github.io/tailorscan/?utm_source=careercenter&utm_campaign=unh\n\nIf it looks like a fit, would you consider adding it to your list of resources? We'd also value your team's honest feedback on anything it gets wrong for your students' fields.\n\nThanks,\nThe TailorScan team\ntailorscan.help@gmail.com\n\nP.S. If this isn't relevant, just reply \"no thanks\" and we won't follow up.",
+    "status": "ready"
+  },
+  {
+    "id": "emporia",
+    "to": "career@emporia.edu",
+    "subject": "A free resume-tailoring tool for your Resume Tips page",
+    "body": "Hi Emporia State Career Services team,\n\nI came across your Resume Tips page, which points students to Jobscan for checking resumes against applicant tracking systems. We built a free tool that might be a useful addition there.\n\nTailorScan compares a resume to a specific job posting and lists the missing keywords, ranked by whether the posting puts them under required or preferred qualifications. It also runs nine ATS formatting checks: quantified bullets, weak phrasing, standard headings, and table layouts that parsers scramble.\n\nIt is free and unlimited, needs no login, and runs entirely in the browser, so no student resume or personal data is ever uploaded or stored. Students and alumni can run it on every application without an account or scan limits.\n\nYou can try it with any posting here: https://nishu1996builds.github.io/tailorscan/?utm_source=careercenter&utm_campaign=emporia\n\nIf it looks like a fit, would you consider adding it to your list of resources? We'd also value your team's honest feedback on anything it gets wrong for your students' fields.\n\nThanks,\nThe TailorScan team\ntailorscan.help@gmail.com\n\nP.S. If this isn't relevant, just reply \"no thanks\" and we won't follow up.",
+    "status": "ready"
+  }
+]
